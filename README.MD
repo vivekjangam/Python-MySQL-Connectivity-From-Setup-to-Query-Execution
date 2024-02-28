@@ -8,3 +8,5 @@ Technologies Used:
     MySQL: A popular relational database management system.
     HTML: Markup language for creating web pages.
     Jinja2: Templating engine for generating dynamic content in HTML.
+
+[Use this Project for learning purpose]
